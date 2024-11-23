@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wb-title {
+    text-align: center;
+    
+}
+
+.blog {
+    margin-left: 20px;
+  
+}
+
+button {
+    margin-top: 10px;
+    background-color: yellow;
+    color: red;
+}
+
+.blog-title {
+    color: blueviolet;
+}
+
+.study {
+    /* visibility: hidden; */
+}
+
+
